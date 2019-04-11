@@ -2,7 +2,7 @@ package = "kong-force-ssl"
 version = "1.0.0-0"
 source = {
     url = "git://github.com/imanel/kong-force-ssl",
-    tag = "v1.0.0"
+    branch = "master"
 }
 description = {
     summary = "Redirect http requests to https",
