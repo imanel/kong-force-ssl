@@ -23,4 +23,4 @@ function ForceSSL:access(conf)
   end
 end
 
-return HttpsRedirect
+return ForceSSL

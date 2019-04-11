@@ -1,5 +1,5 @@
 package = "kong-force-ssl"
-version = "1.0.0-0"
+version = "1.0-1"
 source = {
     url = "git://github.com/imanel/kong-force-ssl",
     branch = "master"
